@@ -6,61 +6,61 @@ c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libg
                               obj\Debug\main.o (__do_copy_data)
 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
                               obj\Debug\main.o (__do_clear_bss)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
                               obj\Debug\main.o (__ltsf2)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
                               obj\Debug\main.o (__divsf3)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o) (__divsf3x)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
                               obj\Debug\main.o (__fixunssfsi)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o) (__fp_cmp)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o) (__fp_inf)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o) (__fp_nan)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o) (__fp_pscA)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o) (__fp_pscB)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o) (__fp_round)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o) (__fp_split3)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o) (__fp_zero)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_inf)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_nan)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscA)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_pscB)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__fp_round)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o) (__fp_split3)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o) (__fp_zero)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
                               obj\Debug\main.o (__gtsf2)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
                               obj\Debug\main.o (__mulsf3)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o) (__mulsf3x)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
                               obj\Debug\main.o (__iob)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
                               obj\Debug\main.o (printf)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
                               obj\Debug\main.o (puts)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o) (vfprintf)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o) (strnlen_P)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o) (strnlen)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o) (fputc)
-C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o) (__ultoa_invert)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (vfprintf)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen_P)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (strnlen)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (fputc)
+c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o) (__ultoa_invert)
 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o) (__prologue_saves__)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__prologue_saves__)
 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
-                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o) (__epilogue_restores__)
+                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o) (__epilogue_restores__)
 
 Allocating common symbols
 Common symbol       size              file
 
-__iob               0x6               C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
+__iob               0x6               c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
 
 Memory Configuration
 
@@ -82,11 +82,11 @@ LOAD obj\Debug\fuse.o
 LOAD obj\Debug\main.o
 LOAD obj\Debug\uart.o
 LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
-LOAD C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a
+LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
 START GROUP
 LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
-LOAD C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a
-LOAD C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a
+LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
 LOAD c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libatmega328p.a
 END GROUP
                 0x00020000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x20000
@@ -187,7 +187,7 @@ END GROUP
 .rela.plt
  *(.rela.plt)
 
-.text           0x00000000     0x2416
+.text           0x00000000     0x23cc
  *(.vectors)
  .vectors       0x00000000       0x68 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
                 0x00000000                __vector_default
@@ -284,29 +284,29 @@ END GROUP
  .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
  .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
- .text          0x00001ab8        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
  .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text          0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
                 0x00001ab8                . = ALIGN (0x2)
@@ -351,113 +351,113 @@ END GROUP
  .text.libgcc.fixed
                 0x00001ab8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
  .text.avr-libc.fplib
-                0x00001ab8        0x8 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
+                0x00001ab8        0xa c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
                 0x00001ab8                __nesf2
                 0x00001ab8                __eqsf2
                 0x00001ab8                __cmpsf2
                 0x00001ab8                __ltsf2
                 0x00001ab8                __lesf2
  .text.avr-libc.fplib
-                0x00001ac0        0x4 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
-                0x00001ac0                __divsf3
+                0x00001ac2        0x8 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                0x00001ac2                __divsf3
  .text.avr-libc.fplib
-                0x00001ac4       0xce C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-                0x00001ada                __divsf3x
-                0x00001ade                __divsf3_pse
+                0x00001aca       0xdc c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                0x00001aea                __divsf3x
+                0x00001af0                __divsf3_pse
  .text.avr-libc.fplib
-                0x00001b92       0x58 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
-                0x00001b92                __fixunssfsi
+                0x00001ba6       0x5e c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                0x00001ba6                __fixunssfsi
  .text.avr-libc.fplib
-                0x00001bea       0x48 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
-                0x00001bea                __fp_cmp
+                0x00001c04       0x48 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                0x00001c04                __fp_cmp
  .text.avr-libc.fplib
-                0x00001c32        0xc C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
-                0x00001c32                __fp_inf
+                0x00001c4c        0xc c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                0x00001c4c                __fp_inf
  .text.avr-libc.fplib
-                0x00001c3e        0x6 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
-                0x00001c3e                __fp_nan
+                0x00001c58        0x6 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                0x00001c58                __fp_nan
  .text.avr-libc.fplib
-                0x00001c44        0xe C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
-                0x00001c44                __fp_pscA
+                0x00001c5e        0xe c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                0x00001c5e                __fp_pscA
  .text.avr-libc.fplib
-                0x00001c52        0xe C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
-                0x00001c52                __fp_pscB
+                0x00001c6c        0xe c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                0x00001c6c                __fp_pscB
  .text.avr-libc.fplib
-                0x00001c60       0x22 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
-                0x00001c60                __fp_round
+                0x00001c7a       0x22 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                0x00001c7a                __fp_round
  .text.avr-libc.fplib
-                0x00001c82       0x44 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
-                0x00001c82                __fp_split3
-                0x00001c92                __fp_splitA
+                0x00001c9c       0x44 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                0x00001c9c                __fp_split3
+                0x00001cac                __fp_splitA
  .text.avr-libc.fplib
-                0x00001cc6       0x10 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
-                0x00001cc6                __fp_zero
-                0x00001cc8                __fp_szero
+                0x00001ce0        0xe c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                0x00001ce0                __fp_zero
+                0x00001ce2                __fp_szero
  .text.avr-libc.fplib
-                0x00001cd6        0x8 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
-                0x00001cd6                __gesf2
-                0x00001cd6                __gtsf2
+                0x00001cee        0xa c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                0x00001cee                __gesf2
+                0x00001cee                __gtsf2
  .text.avr-libc.fplib
-                0x00001cde        0x4 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
-                0x00001cde                __mulsf3
+                0x00001cf8        0x8 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                0x00001cf8                __mulsf3
  .text.avr-libc.fplib
-                0x00001ce2       0xd2 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                0x00001cf4                __mulsf3x
-                0x00001cf8                __mulsf3_pse
+                0x00001d00       0xd2 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                0x00001d1e                __mulsf3x
+                0x00001d24                __mulsf3_pse
  .text.avr-libc
-                0x00001db4       0x2c C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
-                0x00001db4                printf
+                0x00001dd2       0x2c c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+                0x00001dd2                printf
  .text.avr-libc
-                0x00001de0       0x68 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
-                0x00001de0                puts
+                0x00001dfe       0x60 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                0x00001dfe                puts
  .text.avr-libc
-                0x00001e48      0x3ec C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-                0x00001e48                vfprintf
+                0x00001e5e      0x3a4 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                0x00001e5e                vfprintf
  .text.avr-libc
-                0x00002234       0x1a C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
-                0x00002234                strnlen_P
+                0x00002202       0x16 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                0x00002202                strnlen_P
  .text.avr-libc
-                0x0000224e       0x18 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
-                0x0000224e                strnlen
+                0x00002218       0x16 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                0x00002218                strnlen
  .text.avr-libc
-                0x00002266       0x76 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
-                0x00002266                fputc
+                0x0000222e       0x70 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                0x0000222e                fputc
  .text.avr-libc
-                0x000022dc       0xc8 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
-                0x000022dc                __ultoa_invert
+                0x0000229e       0xbc c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                0x0000229e                __ultoa_invert
  .text.libgcc.mul
-                0x000023a4        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x0000235a        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text.libgcc.div
-                0x000023a4        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
- .text.libgcc   0x000023a4        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x0000235a        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x0000235a        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text.libgcc.prologue
-                0x000023a4       0x38 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
-                0x000023a4                __prologue_saves__
+                0x0000235a       0x38 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x0000235a                __prologue_saves__
  .text.libgcc.builtins
-                0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text.libgcc.fmul
-                0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text.libgcc.fixed
-                0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .text.libgcc.mul
-                0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.div
-                0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
- .text.libgcc   0x000023dc        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00002392        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.prologue
-                0x000023dc       0x36 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
-                0x000023dc                __epilogue_restores__
+                0x00002392       0x36 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00002392                __epilogue_restores__
  .text.libgcc.builtins
-                0x00002412        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x000023c8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.fmul
-                0x00002412        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x000023c8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  .text.libgcc.fixed
-                0x00002412        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
-                0x00002412                . = ALIGN (0x2)
+                0x000023c8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x000023c8                . = ALIGN (0x2)
  *(.fini9)
- .fini9         0x00002412        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
-                0x00002412                _exit
-                0x00002412                exit
+ .fini9         0x000023c8        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x000023c8                _exit
+                0x000023c8                exit
  *(.fini9)
  *(.fini8)
  *(.fini8)
@@ -476,11 +476,11 @@ END GROUP
  *(.fini1)
  *(.fini1)
  *(.fini0)
- .fini0         0x00002412        0x4 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .fini0         0x000023c8        0x4 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  *(.fini0)
-                0x00002416                _etext = .
+                0x000023cc                _etext = .
 
-.data           0x00800100       0x80 load address 0x00002416
+.data           0x00800100       0x80 load address 0x000023cc
                 0x00800100                PROVIDE (__data_start, .)
  *(.data)
  .data          0x00800100        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
@@ -492,29 +492,29 @@ END GROUP
  .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
  .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
- .data          0x0080011c        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
  .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .data          0x0080011c        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  *(.data*)
@@ -539,38 +539,38 @@ END GROUP
  .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
  .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
  .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
- .bss           0x00800186        0x0 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+ .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
  .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
  .bss           0x00800186        0x0 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
  *(.bss*)
  *(COMMON)
- COMMON         0x00800186        0x6 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
+ COMMON         0x00800186        0x6 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
                 0x00800186                __iob
                 0x0080018c                PROVIDE (__bss_end, .)
-                0x00002416                __data_load_start = LOADADDR (.data)
-                0x00002496                __data_load_end = (__data_load_start + SIZEOF (.data))
+                0x000023cc                __data_load_start = LOADADDR (.data)
+                0x0000244c                __data_load_end = (__data_load_start + SIZEOF (.data))
 
 .noinit         0x0080018c        0x0
                 [!provide]                PROVIDE (__noinit_start, .)
@@ -624,12 +624,12 @@ END GROUP
                                  0x31 (size before relaxing)
  .comment       0x00000030       0x31 obj\Debug\main.o
  .comment       0x00000030       0x31 obj\Debug\uart.o
- .comment       0x00000030       0x31 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
- .comment       0x00000030       0x31 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
- .comment       0x00000030       0x31 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
- .comment       0x00000030       0x2c C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
+ .comment       0x00000030       0x31 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+ .comment       0x00000030       0x31 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+ .comment       0x00000030       0x31 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+ .comment       0x00000030       0x2c c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
                                  0x2d (size before relaxing)
- .comment       0x0000005c       0x31 C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
+ .comment       0x0000005c       0x31 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
 
 .note.gnu.avr.deviceinfo
                 0x00000000       0x40
@@ -738,80 +738,79 @@ __FUSE_REGION_LENGTH__                            c:/users/airchip/downloads/avr
 __bad_interrupt                                   c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
 __bss_end                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
 __bss_start                                       c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
-__cmpsf2                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
+__cmpsf2                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
 __data_end                                        c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
 __data_load_start                                 c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
 __data_start                                      c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
-__divsf3                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
+__divsf3                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
                                                   obj\Debug\main.o
-__divsf3_pse                                      C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__divsf3x                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
+__divsf3_pse                                      c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__divsf3x                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
 __do_clear_bss                                    c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
                                                   obj\Debug\main.o
 __do_copy_data                                    c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
                                                   obj\Debug\main.o
 __epilogue_restores__                             c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
-__eqsf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
-__fixunssfsi                                      C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
+__eqsf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fixunssfsi                                      c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
                                                   obj\Debug\main.o
-__fp_cmp                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_cmp.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
-__fp_inf                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_inf.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_nan                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_nan.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_pscA                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscA.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_pscB                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_pscB.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_round                                        C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_round.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3.o)
-__fp_split3                                       C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_splitA                                       C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_split3.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
-__fp_szero                                        C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(divsf3x.o)
-__fp_zero                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fp_zero.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(fixunssfsi.o)
+__fp_cmp                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__fp_inf                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_nan                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_pscA                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_pscB                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_round                                        c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+__fp_split3                                       c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_splitA                                       c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+__fp_szero                                        c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+__fp_zero                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
 __fuse                                            obj\Debug\fuse.o
-__gesf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
-__gtsf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(gesf2.o)
+__gesf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+__gtsf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
                                                   obj\Debug\main.o
 __heap_end                                        c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
 __init                                            c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
-__iob                                             C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(iob.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
+__iob                                             c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(iob.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
                                                   obj\Debug\main.o
-__lesf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
-__ltsf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
+__lesf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+__ltsf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
                                                   obj\Debug\main.o
-__mulqi3                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-__mulsf3                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
+__mulsf3                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
                                                   obj\Debug\main.o
-__mulsf3_pse                                      C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-__mulsf3x                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3x.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(mulsf3.o)
-__nesf2                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libm.a(cmpsf2.o)
+__mulsf3_pse                                      c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+__mulsf3x                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+__nesf2                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
 __prologue_saves__                                c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
 __stack                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
-__ultoa_invert                                    C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(ultoa_invert.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
+__ultoa_invert                                    c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(ultoa_invert.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
 __vector_1                                        c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_10                                       c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
 __vector_11                                       c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
@@ -842,20 +841,20 @@ __vectors                                         c:/users/airchip/downloads/avr
 _exit                                             c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
 exit                                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
                                                   c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
-fputc                                             C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(fputc.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
+fputc                                             c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(fputc.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
 main                                              obj\Debug\main.o
                                                   c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5/crtatmega328p.o
-printf                                            C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
+printf                                            c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
                                                   obj\Debug\main.o
-puts                                              C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(puts.o)
+puts                                              c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(puts.o)
                                                   obj\Debug\main.o
 readlowpowerpyro                                  obj\Debug\main.o
 statcfg                                           obj\Debug\main.o
-strnlen                                           C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-strnlen_P                                         C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(strnlen_P.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
+strnlen                                           c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+strnlen_P                                         c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strnlen_P.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
 uart_getchar                                      obj\Debug\uart.o
                                                   obj\Debug\main.o
 uart_init                                         obj\Debug\uart.o
@@ -864,6 +863,6 @@ uart_input                                        obj\Debug\main.o
 uart_output                                       obj\Debug\main.o
 uart_putchar                                      obj\Debug\uart.o
                                                   obj\Debug\main.o
-vfprintf                                          C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(vfprintf_std.o)
-                                                  C:\Users\Airchip\Downloads\avr8-gnu-toolchain\avr\lib\libc.a(printf.o)
+vfprintf                                          c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(vfprintf_std.o)
+                                                  c:/users/airchip/downloads/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(printf.o)
 writeregval                                       obj\Debug\main.o
