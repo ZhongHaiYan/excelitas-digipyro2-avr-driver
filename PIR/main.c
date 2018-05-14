@@ -8,22 +8,11 @@
 #define F_CPU 16000000UL
 #endif
 
-//#define PIN_IS_INP 0
-//#define PIN_IS_OUTP 1
-
-//#define DSERIAL_IN DDRD.3 // Port Pin Direction Register
-//#define DLA_DIR DDRD.2 // Direct Link, port D bit 2 data direction bit
-
-
-//#define SERIAL_IN PORTD.3 // Port Pin for LowPower DigiPyro SERIN
-//#define DLA_OUT PORTD.2 // Direct Link, port D bit 2 output
-
-
-//#define DLA_IN PIND.2 // Direct Link, port D bit 2 input
-
-
-// SERIN is DDRD.3 out, PORTD.3 for output,
-// D/L is DDRD.2 in/out, PORTD.2 for output, PIND.2 for input
+/*
+SERIN to D2 pin,
+D/L to D3 pin for reading mode, B5 for interrupt mode.
+LED to B4 pin in interrupt mode.
+*/
 
 int PIRval = 0; // PIR signal
 unsigned long statcfg = 0; // status and configuration register
@@ -68,10 +57,10 @@ void readlowpowerpyro(void) {
         // create low to high transition
         PORTD = (0<<2); // Set DL = Low, duration must be > 200 ns (tL)
         DDRD = (1<<2); // Configure DL as Output
-        _delay_ms(200);
+        //_delay_us(1);
         //asm("nop"); // number of nop dependant processor speed (200ns min.)
         PORTD = (1<<2); // Set DL = High, duration must be > 200 ns (tH)
-        _delay_ms(200);
+        //_delay_us(1);
         DDRD = (0<<2); // Configure DL as Input
         _delay_us(3); // Wait for stable low signal
         // If DL High set masked bit in PIRVal
@@ -84,10 +73,10 @@ void readlowpowerpyro(void) {
     for (i=0; i < 25; i++){
         PORTD = (0<<2); // Set DL = Low, duration must be > 200 ns (tL)
         DDRD = (1<<2); // Configure DL as Output
-        _delay_ms(200);
+        //_delay_us(1);
         //asm("nop"); // number of nop dependant processor speed (200ns min.)
         PORTD = (1<<2); // Set DL = High, duration must be > 200 ns (tH)
-        _delay_ms(200);
+        //_delay_us(1);
         DDRD = (0<<2); // Configure DL as Input
         _delay_us(3); // Wait for stable low signal, tbd empirically using scope
         // If DL High set masked bit
@@ -96,7 +85,7 @@ void readlowpowerpyro(void) {
     }
     PORTD = (0<<2); // Set DL = Low
     DDRD = (1<<2); // Configure DL as Output
-    _delay_ms(200);
+    //_delay_us(1);
     DDRD = (0<<2); // Configure DL as Input
     PIRval &= 0x3FFF; // clear unused bit
     if (!(statcfg & 0x60)){
@@ -131,9 +120,11 @@ int main(void){
         //if(!(PIND&0b00000010)){
         //    puts("hareket");
         //}
-        //puts("Reading from register");
-        //_delay_ms(3000);
-        //readlowpowerpyro();
+        puts("Reading from register");
+        _delay_ms(1000);
+        readlowpowerpyro();
+        /*
+
         if(PINB & 0x20){
 
             puts("Movement!!!\n");
@@ -145,6 +136,7 @@ int main(void){
             PORTB = 0x00;
             DDRB = 0x10;
         }
+        */
 
     }
     return 0;
