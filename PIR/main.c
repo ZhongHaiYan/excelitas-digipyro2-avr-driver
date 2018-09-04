@@ -183,16 +183,16 @@ int main(void){
         // END
 
         // Interrupt Mode
-        if(PINB & 0x20){
+        if(PINB & 0x20){ //checks for changes on B5 pin, interrupt can be used
 
             puts("Movement!!!\n");
-            DDRB = 0x30;
-            PORTB = 0x10;
-            puts("Waiting for 2 Sec\n");
+            DDRB = 0x30; //set B5 and B4 to output
+            PORTB = 0x10; // set B5 to LOW, this necessary to terminate sensor's internal interrupt, and B4 to HIGH for LED indicator
+            puts("Waiting for 2 Sec\n"); // to prevent same movement alert
             _delay_ms(2000);
             puts("Waiting done\n");
-            PORTB = 0x00;
-            DDRB = 0x10;
+            PORTB = 0x00; //set LED to LOW
+            DDRB = 0x10; // set B5 to input to catch movement
         }
         //END
 
